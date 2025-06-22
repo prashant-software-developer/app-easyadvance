@@ -22,7 +22,7 @@ Freelancers often struggle with delayed payments that disrupt their cash flow. *
 
 * **Founder**: Prashant Kumar Singh
 * **Email**: [prashantkumarsingh.work@gmail.com](mailto:prashantkumarsingh.work@gmail.com)
-* **LinkedIn**: [linkedin.com/in/prashantkrsingh](https://linkedin.com/in/product-designer-freelancer)
+* **LinkedIn**: [linkedin.com/in/product-designer-freelancer](https://linkedin.com/in/product-designer-freelancer)
 
 ## 📃 License
 
